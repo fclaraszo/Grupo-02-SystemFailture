@@ -1,10 +1,12 @@
 <p align="center">
 <img src="Croquetas.jpg" width="350">
 </p>
-<p align="center"> " INSTRUCCIONES " </p>
   
 <p align="center"> "CROQUETAS DE PAPA CON ATUN AL CHIPOTLE" </p>
 
+<p align="center"> " INSTRUCCIONES " </p>
+
+<p align="center">
 --------------------------------------------------------------------------  
 | Cantidad| Instrucción                                                   |
 | --------| --------------------------------------------------------------|
@@ -13,4 +15,5 @@
 |  1/4    | tazas de crema para batir, para las croquetas                 |
 |  1/2    | tazas de cebolla, finamente picada, para las croquetas        |
 --------------------------------------------------------------------------
+</p>
 
