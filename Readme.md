@@ -3,7 +3,7 @@
 </p>
 <p align="center"> " INSTRUCCIONES " </p>
   
-<p aling="center"> "CROQUETAS DE PAPA CON ATUN AL CHIPOTLE" </p>
+<p align="center"> "CROQUETAS DE PAPA CON ATUN AL CHIPOTLE" </p>
 
 --------------------------------------------------------------------------  
 | Cantidad| Instrucción                                                   |
