@@ -1,9 +1,9 @@
 <p align="center">
-<img src="images/image-01.jpeg" width="350">
+<img src="CROQUETAS.JPG" width="350">
 </p>
- INSTRUCCIONES gvASHGA
+<p align="center"> " INSTRUCCIONES "
   
- "CROQUETAS DE PAPA CON ATUN AL CHIPOTLE"
+<p aling="center"> "CROQUETAS DE PAPA CON ATUN AL CHIPOTLE"
 
 --------------------------------------------------------------------------  
 | Cantidad| Instrucción                                                   |
