@@ -10,4 +10,4 @@
 
 1 cucharadita de ajo en polvo, para las croquetas
 
-![prueba](https://github.com/fclaraszo/Grupo-02-SystemFailture/blob/main/wp8413114-f1-red-bull-wallpapers.png)
+![prueba](https://github.com/fclaraszo/Grupo-02-SystemFailture/blob/main/wp8413114-f1-red-bull-wallpapers.png?raw=true)
