@@ -1,9 +1,9 @@
 <p align="center">
 <img src="CROQUETAS.JPG" width="350">
 </p>
-<p align="center"> " INSTRUCCIONES "
+<p align="center"> " INSTRUCCIONES " </p>
   
-<p aling="center"> "CROQUETAS DE PAPA CON ATUN AL CHIPOTLE"
+<p aling="center"> "CROQUETAS DE PAPA CON ATUN AL CHIPOTLE" </p>
 
 --------------------------------------------------------------------------  
 | Cantidad| Instrucción                                                   |
