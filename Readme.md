@@ -15,3 +15,4 @@
 |  1/2    | tazas de cebolla, finamente picada, para las croquetas        |
 --------------------------------------------------------------------------
 
+[![Alt text](https://img.youtube.com/vi/6nlmlYf3hEM/0.jpg)](https://www.youtube.com/watch?v=6nlmlYf3hEM)
