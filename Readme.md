@@ -1,5 +1,5 @@
 <p align="center">
-<img src="CROQUETAS.JPG" width="150">
+<img src="Croquetas.JPG" width="150">
 </p>
 <p align="center"> " INSTRUCCIONES " </p>
   
