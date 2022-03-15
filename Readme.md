@@ -7,7 +7,7 @@
 ## <p align="center"> " *INSTRUCCIONES* " </p>
 
 --------------------------------------------------------------------------  
-| Cantidad| Instrucción                                                   |
+| Cantidad| Ingrediente                                                   |
 | --------| --------------------------------------------------------------|
 |  4      | papas, grandes, sin cáscara, en mitades y cocidas             |
 |  3      | cucharadas de mantequilla, en cubos, suave, para las croquetas|
