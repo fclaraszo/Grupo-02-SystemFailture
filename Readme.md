@@ -1,6 +1,6 @@
- "**CROQUETAS DE PAPA CON ATÚN AL CHIPOTLE**"
+ "  CROQUETAS DE PAPA CON ATÚN AL CHIPOTLE  "
  
- "INSTRUCCIONES"
+                                 "INSTRUCCIONES"
 
 | Cantidad     | Instrucción                                                     |
 | ------------ | --------------------------------------------------------------- |
