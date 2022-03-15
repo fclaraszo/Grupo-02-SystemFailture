@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Grupo-02-SystemFailture/Croquetas.JPG" width="150">
+<img src="Croquetas.jpg" width="150">
 </p>
 <p align="center"> " INSTRUCCIONES " </p>
   
