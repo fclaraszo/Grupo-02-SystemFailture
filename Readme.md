@@ -1,3 +1,7 @@
+ **CROQUETAS DE PAPA CON ATÚN AL CHIPOTLE**
+ 
+ "INSTRUCCIONES"
+
 | Cantidad     | Instrucción                                                     |
 | ------------ | --------------------------------------------------------------- |
 | 4            | papas, grandes, sin cáscara, en mitades y cocidas               |
