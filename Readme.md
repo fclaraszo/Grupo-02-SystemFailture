@@ -10,4 +10,4 @@
 
 1 cucharadita de ajo en polvo, para las croquetas
 
-1[prueba](https://www.google.com/search?q=real+madrid&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjlkJTP-Mj2AhX8I0QIHWLdA2oQ_AUoAnoECAIQBA&biw=1366&bih=657&dpr=1#imgrc=gB25H4Qp8ztPEM)
+![prueba](https://github.com/fclaraszo/Grupo-02-SystemFailture/blob/main/wp8413114-f1-red-bull-wallpapers.png)
