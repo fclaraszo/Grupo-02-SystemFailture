@@ -1,6 +1,6 @@
  <img src="Grupo-02-SystemFailture/Croquetas.jpg">
  
- INSTRUCCIONES
+ INSTRUCCIONES gvASHGA
   
  "CROQUETAS DE PAPA CON ATUN AL CHIPOTLE"
 
