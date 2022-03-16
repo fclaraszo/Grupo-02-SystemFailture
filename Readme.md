@@ -13,6 +13,14 @@
 |  3      | cucharadas de mantequilla, en cubos, suave, para las croquetas|
 |  1/4    | tazas de crema para batir, para las croquetas                 |
 |  1/2    | tazas de cebolla, finamente picada, para las croquetas        |
+|  1      | cucharadita de ajo en polvo, para las croquetas               |
+| 1/4     | tazas de pan molido, o panko, para las croquetas              |
+| 1/4     | tazas de fécula de maíz, para las croquetas                   |
+| 3       |sobres de Atún con 29% de Aderezo de Mayonesa Chipotle Herdez® , 85 g c/ sobre|
+| 1       | huevo, para las croquetas                                     |
+| al gusto| sal, para las croquetas                                       |
+| al gusto| pimienta, para las croquetas                                  |
+| 2       | tazas de harina, para empanizar                               |
 --------------------------------------------------------------------------
 
 ## <p align="center"> " *Consulta el Video* " </p>
