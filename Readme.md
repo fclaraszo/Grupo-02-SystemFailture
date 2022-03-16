@@ -21,6 +21,16 @@
 | al gusto| sal, para las croquetas                                       |
 | al gusto| pimienta, para las croquetas                                  |
 | 2       | tazas de harina, para empanizar                               |
+| 2 | huevos, para empanizar |
+| 2 | tazas de pan molido, o pan para empanizar |
+| X | suficiente de aceite vegetal, para freír |
+| 1 | taza de mayonesa, para el aderezo |
+| 2 | cucharadas de mostaza, para el aderezo |
+| 1/4 | tazas de salmuera de pepinillos , picados, para el aderezo | 
+| 1/4 | tazas de cebolla morada, finamente picada, para el aderezo |
+| 2 | cucharadas de jugo de limón, para el aderezo |
+| X | suficiente de pimienta, para el aderezo |
+| X | suficiente de parmesano, rallado, para decorar |
 --------------------------------------------------------------------------
 
 ## <p align="center"> " *Consulta el Video* " </p>
