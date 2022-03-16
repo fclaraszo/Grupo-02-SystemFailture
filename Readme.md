@@ -19,7 +19,7 @@
 | 3       |sobres de Atún con 29% de Aderezo de Mayonesa Chipotle Herdez , 85 g c/ sobre|
 | 1       | huevo, para las croquetas :egg:                               |
 | al gusto| sal, para las croquetas :salt:                                |
-| al gusto| pimienta, para las croquetas                                  |
+| al gusto| pimienta, para las croquetas :salt:                           |
 | 2       | tazas de harina, para empanizar                               |
 | 2 | huevos, para empanizar :egg: |
 | 2 | tazas de pan molido, o pan para empanizar |
@@ -29,7 +29,7 @@
 | 1/4 | tazas de salmuera de pepinillos , picados, para el aderezo | 
 | 1/4 | tazas de cebolla morada, finamente picada, para el aderezo |
 | 2 | cucharadas de jugo de limón, para el aderezo |
-| X | suficiente de pimienta, para el aderezo |
+| X | suficiente de pimienta, para el aderezo :salt: |
 | X | suficiente de parmesano, rallado, para decorar|
 
 ## <p align="center"> " *Preparación* " </p>
