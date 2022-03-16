@@ -34,11 +34,15 @@
 
 ## <p align="center"> " *Preparación* " </p>
 
-Coloca las papas en un bowl y con ayuda de un aplastador de papas, presiona las papas hasta que se hagan puré. Entonces agrega la mantequilla, la crema para batir, la cebolla, el ajo en polvo, el pan molido, la fécula de maíz, el Atún con 29% de Aderezo de Mayonesa Chipotle Herdez® y el huevo, sazona con sal y pimienta, e integra hasta obtener una masa manipulable.
-Toma un poco de la masa (aproximadamente 40 gramos) y con ayuda de tus manos forma pequeñas bolitas, luego presiónalas y alárgalas poco a poco, de esta manera le darás una forma de croqueta. Repite hasta terminar con la mezcla. Refrigera por 20 minutos.
-Pasa las croquetas sobre la harina, luego baña con huevo y cubre con pan molido o panko. En un sartén con aceite vegetal caliente, fríe las croquetas por ambos lados por 6 minutos a fuego medio bajo. Escurre.
-Para el aderezo, mezcla la mayonesa con la mostaza, los pepinillos, la salmuera, la cebolla morada, el jugo de limón y la pimienta hasta integrar.
-Sirve las croquetas con el aderezo. Decora con perejil y queso parmesano rallado.
+- Coloca las papas en un bowl y con ayuda de un aplastador de papas, presiona las papas hasta que se hagan puré. Entonces agrega la mantequilla, la crema para batir, la cebolla, el ajo en polvo, el pan molido, la fécula de maíz, el Atún con 29% de Aderezo de Mayonesa Chipotle Herdez® y el huevo, sazona con sal y pimienta, e integra hasta obtener una masa manipulable.
+
+- Toma un poco de la masa (aproximadamente 40 gramos) y con ayuda de tus manos forma pequeñas bolitas, luego presiónalas y alárgalas poco a poco, de esta manera le darás una forma de croqueta. Repite hasta terminar con la mezcla. Refrigera por 20 minutos.
+
+- Pasa las croquetas sobre la harina, luego baña con huevo y cubre con pan molido o panko. En un sartén con aceite vegetal caliente, fríe las croquetas por ambos lados por 6 minutos a fuego medio bajo. Escurre.
+
+- Para el aderezo, mezcla la mayonesa con la mostaza, los pepinillos, la salmuera, la cebolla morada, el jugo de limón y la pimienta hasta integrar.
+
+- Sirve las croquetas con el aderezo. Decora con perejil y queso parmesano rallado.
 
 --------------------------------------------------------------------------
 
