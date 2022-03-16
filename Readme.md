@@ -15,7 +15,7 @@
 |  1/2    | tazas de cebolla, finamente picada, para las croquetas :onion:|
 |  1      | cucharadita de ajo en polvo, para las croquetas               |
 | 1/4     | tazas de pan molido, o pan, para las croquetas                |
-| 1/4     | tazas de fécula de maíz, para las croquetas                   |
+| 1/4     | tazas de fécula de maíz, para las croquetas :corn:            |
 | 3       |sobres de Atún con 29% de Aderezo de Mayonesa Chipotle Herdez , 85 g c/ sobre|
 | 1       | huevo, para las croquetas :egg:                               |
 | al gusto| sal, para las croquetas :salt:                                |
