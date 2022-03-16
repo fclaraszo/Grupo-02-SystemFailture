@@ -28,7 +28,7 @@
 | 2 | cucharadas de mostaza, para el aderezo |
 | 1/4 | tazas de salmuera de pepinillos , picados, para el aderezo | 
 | 1/4 | tazas de cebolla morada, finamente picada, para el aderezo |
-| 2 | cucharadas de jugo de limón, para el aderezo |
+| 2 | cucharadas de jugo de limón, para el aderezo :lemon: |
 | X | suficiente de pimienta, para el aderezo :salt: |
 | X | suficiente de parmesano, rallado, para decorar|
 
