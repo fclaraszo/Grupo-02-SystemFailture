@@ -32,7 +32,7 @@
 | X | suficiente de pimienta, para el aderezo |
 | X | suficiente de parmesano, rallado, para decorar|
 
-Preparación
+## <p align="center"> " *Preparación* " </p>
 
 Coloca las papas en un bowl y con ayuda de un aplastador de papas, presiona las papas hasta que se hagan puré. Entonces agrega la mantequilla, la crema para batir, la cebolla, el ajo en polvo, el pan molido, la fécula de maíz, el Atún con 29% de Aderezo de Mayonesa Chipotle Herdez® y el huevo, sazona con sal y pimienta, e integra hasta obtener una masa manipulable.
 Toma un poco de la masa (aproximadamente 40 gramos) y con ayuda de tus manos forma pequeñas bolitas, luego presiónalas y alárgalas poco a poco, de esta manera le darás una forma de croqueta. Repite hasta terminar con la mezcla. Refrigera por 20 minutos.
