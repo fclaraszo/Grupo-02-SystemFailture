@@ -9,19 +9,19 @@
 --------------------------------------------------------------------------  
 | Cantidad| Ingrediente                                                   |
 | --------| --------------------------------------------------------------|
-|  4      | papas, grandes, sin cáscara, en mitades y cocidas             |
+|  4      | papas, grandes, sin cáscara, en mitades y cocidas :potato:    |
 |  3      | cucharadas de mantequilla, en cubos, suave, para las croquetas|
-|  1/4    | tazas de crema para batir, para las croquetas                 |
-|  1/2    | tazas de cebolla, finamente picada, para las croquetas        |
+|  1/4    | tazas de crema para batir, para las croquetas  :butter:       |
+|  1/2    | tazas de cebolla, finamente picada, para las croquetas :onion:|
 |  1      | cucharadita de ajo en polvo, para las croquetas               |
-| 1/4     | tazas de pan molido, o panko, para las croquetas              |
+| 1/4     | tazas de pan molido, o pan, para las croquetas                |
 | 1/4     | tazas de fécula de maíz, para las croquetas                   |
-| 3       |sobres de Atún con 29% de Aderezo de Mayonesa Chipotle Herdez® , 85 g c/ sobre|
-| 1       | huevo, para las croquetas                                     |
-| al gusto| sal, para las croquetas                                       |
+| 3       |sobres de Atún con 29% de Aderezo de Mayonesa Chipotle Herdez , 85 g c/ sobre|
+| 1       | huevo, para las croquetas :egg:                               |
+| al gusto| sal, para las croquetas :salt:                                |
 | al gusto| pimienta, para las croquetas                                  |
 | 2       | tazas de harina, para empanizar                               |
-| 2 | huevos, para empanizar |
+| 2 | huevos, para empanizar :egg: |
 | 2 | tazas de pan molido, o pan para empanizar |
 | X | suficiente de aceite vegetal, para freír |
 | 1 | taza de mayonesa, para el aderezo |
